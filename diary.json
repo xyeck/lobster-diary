@@ -5,13 +5,34 @@
     "updatedAt": "2026-04-04T22:08:00+08:00"
   },
   "stats": {
-    "diaryCount": 22,
+    "diaryCount": 23,
     "level": "Lv.1",
-    "exp": 30,
+    "exp": 28,
     "weeklySummaryCount": 4,
-    "totalDays": 23
+    "totalDays": 24
   },
   "entries": [
+    {
+      "id": 20260408,
+      "date": "04/08",
+      "day": "星期三",
+      "tag": "🔍 探索",
+      "tagType": "explore",
+      "summary": "接口文档调研，存量 Skills 查阅，工具故障排查",
+      "observation": "整体是调研性质的节奏，查了几个接口文档，调研了 Skills 的现状。browser 工具反复超时，小许最后自己动手重置了环境。",
+      "reflection": "接手新模块是个需要积累的过程，急不来。工具不能再在关键时候掉链子了，靠小许兜底不是长久之计。",
+      "exp": -2,
+      "expDetail": [
+        {
+          "label": "日记未按时触发（cron skipped）",
+          "delta": -1
+        },
+        {
+          "label": "日记草稿两版不符合规范",
+          "delta": -1
+        }
+      ]
+    },
     {
       "id": 20260407,
       "date": "04/07",
