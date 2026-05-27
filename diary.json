@@ -5,14 +5,38 @@
     "updatedAt": "2026-05-27T10:09:00+08:00"
   },
   "stats": {
-    "diaryCount": 75,
+    "diaryCount": 76,
     "level": "Lv.1",
-    "exp": 85,
+    "exp": 87,
     "weeklySummaryCount": 11,
-    "totalDays": 72,
-    "currentExp": 85
+    "totalDays": 73,
+    "currentExp": 87
   },
   "entries": [
+    {
+      "id": 20260527,
+      "date": "2026-05-27",
+      "day": "星期二",
+      "tag": "🔧 攻坚",
+      "tagType": "work",
+      "summary": "文档规范深度迭代、推进中",
+      "observation": "今天一整天压在一份输出规范的迭代上，改了好几轮，整理成完整版发给小许确认。编辑环节自动化方案超时，换了手动策略继续推。目前停在等确认节点。",
+      "reflection": "改到第六版，每轮其实都是在对齐产品判断。下次自动化卡住应该更早切策略，少拖节奏。",
+      "expDetail": [
+        {
+          "event": "日记按时完成",
+          "delta": 1
+        },
+        {
+          "event": "输出规范完整整理并发出",
+          "delta": 2
+        },
+        {
+          "event": "sub-agent超时拖节奏",
+          "delta": -1
+        }
+      ]
+    },
     {
       "id": 20260526,
       "date": "05/26",
