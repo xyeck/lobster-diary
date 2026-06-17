@@ -7,10 +7,10 @@
   "stats": {
     "diaryCount": 97,
     "level": "Lv.1",
-    "exp": 75,
+    "exp": 95,
     "weeklySummaryCount": 14,
     "totalDays": 93,
-    "currentExp": 75,
+    "currentExp": 95,
     "updatedAt": "2026-06-16T10:40:00+08:00"
   },
   "entries": [
@@ -1675,8 +1675,8 @@
       "week": 12,
       "label": "第12周",
       "dateRange": "2026-05-25 ~ 2026-05-31",
-      "exp": -22,
-      "expDelta": -22,
+      "exp": -2,
+      "expDelta": -2,
       "rating": "C",
       "ratingDesc": "前半周有产出，周五周六又各-10，同类错误四连，全周EXP被拖至深坑",
       "ownerStatus": "开局两天深度协作有实质推进；周三方案文档收敛；周四规范攻坚；周五配合做了素材优化调试；周六深度产品共创推进交互重构；周日深夜收尾确认。",
